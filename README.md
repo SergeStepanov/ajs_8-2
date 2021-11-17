@@ -1,1 +1,1 @@
-# ajs_8-2
+# ajs_8-2 [![Build status](https://ci.appveyor.com/api/projects/status/vn88sf9u6ol7nu1s?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-8-2)
